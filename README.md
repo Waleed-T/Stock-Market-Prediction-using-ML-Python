@@ -7,3 +7,6 @@
 5. Building a Backtesting System.
 6. Adding Additional Predictors To Our Model.
 7. Improving Our Model.
+
+
+Credits and big thanks to Vikar Paruchuri for guidance.
